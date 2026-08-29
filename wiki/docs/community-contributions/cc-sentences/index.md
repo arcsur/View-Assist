@@ -7,8 +7,12 @@ View Assist is easily extendable by adding custom sentences which provide data t
 
 We encourage everyone to share their creations so that others might enjoy what you have brought to life.
 
+:::tip[Enabling Community Blueprints in UI]
+Community sentence blueprints are cached locally and can be installed directly from the View Assist integration UI under **Settings** → **Devices & Services** → **View Assist** → **Master Configuration** → **Manage Views & Features**!
+:::
+
 :::info[Word of Caution]
-These user contributions are supported by the contributors only as they are not a part of the core of View Assist
+These user contributions are supported by the contributors only as they are not a part of the core of View Assist.
 :::
 
 | Sentence                                                | Description                                                                                                                               | Github User                                         | Discord User |

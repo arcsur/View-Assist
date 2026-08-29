@@ -6,10 +6,19 @@ This view makes the clock move in a semi-random pattern over your screen to serv
 
 ## Prerequisites
 
-## Installation
-- [create or update a view with the yaml](https://github.com/dinki/View-Assist/blob/main/View%20Assist%20dashboard%20and%20views/views/community_contributions/clockaltwithmovement.yaml)
+## Installation & Enabling
+
+You can enable this view directly using the View Assist integration UI:
+1. Go to **Settings** → **Devices & Services** → **View Assist**.
+2. Click **Configure** on your **Master Configuration** entry.
+3. Select **Manage Views & Features**.
+4. You can either:
+   - Select **Clock with Movement** under **Clock View Style** to replace the primary clock, or
+   - Select **clockaltwithmovement** under **Community Contribution Views** to add it as a separate view.
+
 ## Changelog
 
 | Version | Description     |
 | ------- | --------------- |
+| v 1.1.0 | Added integration UI configuration support |
 | v 1.0.0 | Initial release |

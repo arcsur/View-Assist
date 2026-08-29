@@ -33,9 +33,15 @@ cloudy.jpg
 
 The complete list of expected filenames can be found in the background mapping within the supplied YAML.
 
-### 3. Create or update the Weather view
+### 3. Enable the Weather Dynamic View in UI
 
-[Create or update the current Weather view with this yaml](https://github.com/dinki/View-Assist/blob/main/View%20Assist%20dashboard%20and%20views/views/community_contributions/weatherdynamic.yaml)
+You can enable this view directly using the View Assist integration:
+1. In Home Assistant, go to **Settings** → **Devices & Services** → **View Assist**.
+2. Click **Configure** on your **Master Configuration** entry.
+3. Select **Manage Views & Features**.
+4. Set **Weather View Style** to **Dynamic Weather (Condition Backgrounds)**.
+
+Alternatively, you can enable **weatherdynamic** under **Community Contribution Views** to have both standard and dynamic weather views on your dashboard.
 
 ### 4. Configure your weather entity
 
