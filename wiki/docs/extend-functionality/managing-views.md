@@ -67,11 +67,10 @@ Several core views offer alternative layouts and card templates. You can choose 
 - **Standard Weather**: Clean forecast card with daily/hourly predictions.
 - **Dynamic Weather**: Changes the background art dynamically to match real-time weather conditions.
 
-### Clock View Style & Tap-to-Swap
+### Clock View Style
 - **Standard Digital Clock**: Large digital time with day, date, and weather badges.
 - **Clock Alternative (Stacked)**: Stacked hour/minute display with ambient styling.
-- **Clock with Movement**: Periodically shifts position across the screen to prevent OLED screen burn-in.
-- **Enable ClockAlt Secondary View (Tap-to-Swap)**: When enabled, both `clock` and `clockalt` are installed on the dashboard. Tapping the time on the clock view seamlessly swaps between the standard and alternative views!
+- **Clock with Movement**: Periodically shifts position across the screen to prevent OLED screen burn-in (available in Community Contributions).
 
 ---
 

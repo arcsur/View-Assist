@@ -20,14 +20,13 @@ To customize your clock layout and navigation:
 1. Go to **Settings** → **Devices & Services** → **View Assist**.
 2. Click **Configure** on your **Master Configuration** entry.
 3. Select **Manage Views & Features**.
-4. Set **Clock View Style** to your preferred style (**Standard Digital Clock**, **Clock Alternative (Stacked)**, or **Clock with Movement**).
-5. Enable **Enable ClockAlt Secondary View (tap-to-swap)** to have both clock views available so that tapping the time on the screen smoothly toggles between the standard and alternative views.
+4. Set **Clock View Style** to your preferred style (**Standard Digital Clock** or **Clock Alternative (Stacked)**).
 
 ## Changelog
 
 | Version | Description                    |
 | ------- | ------------------------------ |
-| v 1.6.0 | Added UI variant configuration & tap-to-swap support |
+| v 1.6.0 | Added UI variant configuration |
 | v 1.5.1 | Fix for night mode white pixel |
 | v 1.5.0 | Various improvements           |
 | v 1.4.0 | Update for better night mode   |
